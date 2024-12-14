@@ -10,6 +10,12 @@
     <img alt="License" src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge">
     <img alt="Contributions Welcome" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge">
 </p>
+<p align="center">
+    <a href="https://modrinth.com/plugin/quick-sort"><img alt="Modrinth" src="https://img.shields.io/badge/See_on_Modrinth-dark_green?style=for-the-badge"></a>
+    <a href="https://hangar.papermc.io/Nolly/QuickSort"><img alt="Hangar" src="https://img.shields.io/badge/See_on_Hangar-blue?style=for-the-badge"></a>
+    <a href="https://www.spigotmc.org/resources/quicksort.121292/"><img alt="Spigot" src="https://img.shields.io/badge/See_on_Spigot-yellow?style=for-the-badge"></a>
+    <a href="https://legacy.curseforge.com/minecraft/bukkit-plugins/quicksort"><img alt="Curseforge" src="https://img.shields.io/badge/See_on_Curseforge-red?style=for-the-badge"></a>
+</p>
 
 ---
 
