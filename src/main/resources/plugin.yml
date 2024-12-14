@@ -1,5 +1,11 @@
 name: QuickSort
 main: com.thenolle.quicksort.QuickSortPlugin
 version: ${version}
-description: 'Automatically organizes inventory and chests with a single click.'
+description: 'Automatically organizes inventory and containers with a simple command.'
 api-version: '1.21'
+
+commands:
+  quicksort:
+    description: 'Sorts your inventory or an open container.'
+    usage: '/quicksort [direction] | /quicksort container [direction]'
+    aliases: [qs]
